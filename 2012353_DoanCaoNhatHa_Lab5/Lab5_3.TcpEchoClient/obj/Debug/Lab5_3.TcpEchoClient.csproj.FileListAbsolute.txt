@@ -1,0 +1,8 @@
+E:\summer\Mang\2012353_DoanCaoNhatHa_Lab5\Lab5_3.TcpEchoClient\obj\Debug\Lab5_3.TcpEchoClient.csproj.AssemblyReference.cache
+E:\summer\Mang\2012353_DoanCaoNhatHa_Lab5\Lab5_3.TcpEchoClient\obj\Debug\Lab5_3.TcpEchoClient.csproj.SuggestedBindingRedirects.cache
+E:\summer\Mang\2012353_DoanCaoNhatHa_Lab5\Lab5_3.TcpEchoClient\obj\Debug\Lab5_3.TcpEchoClient.csproj.CoreCompileInputs.cache
+E:\summer\Mang\2012353_DoanCaoNhatHa_Lab5\Lab5_3.TcpEchoClient\bin\Debug\Lab5_3.TcpEchoClient.exe.config
+E:\summer\Mang\2012353_DoanCaoNhatHa_Lab5\Lab5_3.TcpEchoClient\bin\Debug\Lab5_3.TcpEchoClient.exe
+E:\summer\Mang\2012353_DoanCaoNhatHa_Lab5\Lab5_3.TcpEchoClient\bin\Debug\Lab5_3.TcpEchoClient.pdb
+E:\summer\Mang\2012353_DoanCaoNhatHa_Lab5\Lab5_3.TcpEchoClient\obj\Debug\Lab5_3.TcpEchoClient.exe
+E:\summer\Mang\2012353_DoanCaoNhatHa_Lab5\Lab5_3.TcpEchoClient\obj\Debug\Lab5_3.TcpEchoClient.pdb

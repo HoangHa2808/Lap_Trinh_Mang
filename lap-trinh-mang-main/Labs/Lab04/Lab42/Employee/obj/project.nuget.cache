@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xnIPyo9a2yshGCJgNvuXzBU9dqabQCkMxQ6JrxqXd6wqJM6TS49s6rUlJnfzVdBjKD5ZyYXDbB0SLvodDaDjdg==",
+  "success": true,
+  "projectFilePath": "E:\\summer\\LapTrinhMang\\lap-trinh-mang-main\\Labs\\Lab04\\Lab42\\Employee\\Employee.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dalathub\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\dalathub\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\dalathub\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\dalathub\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+E:\summer\Mang\Chat_Server&Client\App_Chat\App_Chat\bin\Debug\App_Chat.exe.config
+E:\summer\Mang\Chat_Server&Client\App_Chat\App_Chat\bin\Debug\App_Chat.exe
+E:\summer\Mang\Chat_Server&Client\App_Chat\App_Chat\bin\Debug\App_Chat.pdb
+E:\summer\Mang\Chat_Server&Client\App_Chat\App_Chat\obj\Debug\Server.csproj.AssemblyReference.cache
+E:\summer\Mang\Chat_Server&Client\App_Chat\App_Chat\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+E:\summer\Mang\Chat_Server&Client\App_Chat\App_Chat\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\summer\Mang\Chat_Server&Client\App_Chat\App_Chat\obj\Debug\App_Chat.exe
+E:\summer\Mang\Chat_Server&Client\App_Chat\App_Chat\obj\Debug\App_Chat.pdb

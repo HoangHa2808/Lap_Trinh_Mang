@@ -1,0 +1,10 @@
+E:\summer\LapTrinhMang\Lab1\Lab1\bin\Debug\Lab1.exe.config
+E:\summer\LapTrinhMang\Lab1\Lab1\bin\Debug\Lab1.exe
+E:\summer\LapTrinhMang\Lab1\Lab1\bin\Debug\Lab1.pdb
+E:\summer\LapTrinhMang\Lab1\Lab1\obj\Debug\Bai1.csproj.AssemblyReference.cache
+E:\summer\LapTrinhMang\Lab1\Lab1\obj\Debug\Bai1.csproj.SuggestedBindingRedirects.cache
+E:\summer\LapTrinhMang\Lab1\Lab1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+E:\summer\LapTrinhMang\Lab1\Lab1\obj\Debug\Lab1.exe
+E:\summer\LapTrinhMang\Lab1\Lab1\obj\Debug\Lab1.pdb
+E:\summer\LapTrinhMang\Lab1\Lab1\obj\Debug\Lab1.Resolve.resources
+E:\summer\LapTrinhMang\Lab1\Lab1\obj\Debug\Bai1.csproj.GenerateResource.cache
