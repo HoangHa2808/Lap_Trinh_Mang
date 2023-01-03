@@ -1,0 +1,11 @@
+H:\LapTrinhMang\Bai_Lab\2012353_DoanCaoNhatHa_Lab6\DoanCaoNhatHa_Lab6\obj\Debug\DoanCaoNhatHa_Lab6.csproj.AssemblyReference.cache
+H:\LapTrinhMang\Bai_Lab\2012353_DoanCaoNhatHa_Lab6\DoanCaoNhatHa_Lab6\obj\Debug\DoanCaoNhatHa_Lab6.csproj.SuggestedBindingRedirects.cache
+H:\LapTrinhMang\Bai_Lab\2012353_DoanCaoNhatHa_Lab6\DoanCaoNhatHa_Lab6\obj\Debug\DoanCaoNhatHa_Lab6.Client.resources
+H:\LapTrinhMang\Bai_Lab\2012353_DoanCaoNhatHa_Lab6\DoanCaoNhatHa_Lab6\obj\Debug\DoanCaoNhatHa_Lab6.Server.resources
+H:\LapTrinhMang\Bai_Lab\2012353_DoanCaoNhatHa_Lab6\DoanCaoNhatHa_Lab6\obj\Debug\DoanCaoNhatHa_Lab6.csproj.GenerateResource.cache
+H:\LapTrinhMang\Bai_Lab\2012353_DoanCaoNhatHa_Lab6\DoanCaoNhatHa_Lab6\obj\Debug\DoanCaoNhatHa_Lab6.csproj.CoreCompileInputs.cache
+H:\LapTrinhMang\Bai_Lab\2012353_DoanCaoNhatHa_Lab6\DoanCaoNhatHa_Lab6\bin\Debug\DoanCaoNhatHa_Lab6.exe.config
+H:\LapTrinhMang\Bai_Lab\2012353_DoanCaoNhatHa_Lab6\DoanCaoNhatHa_Lab6\bin\Debug\DoanCaoNhatHa_Lab6.exe
+H:\LapTrinhMang\Bai_Lab\2012353_DoanCaoNhatHa_Lab6\DoanCaoNhatHa_Lab6\bin\Debug\DoanCaoNhatHa_Lab6.pdb
+H:\LapTrinhMang\Bai_Lab\2012353_DoanCaoNhatHa_Lab6\DoanCaoNhatHa_Lab6\obj\Debug\DoanCaoNhatHa_Lab6.exe
+H:\LapTrinhMang\Bai_Lab\2012353_DoanCaoNhatHa_Lab6\DoanCaoNhatHa_Lab6\obj\Debug\DoanCaoNhatHa_Lab6.pdb

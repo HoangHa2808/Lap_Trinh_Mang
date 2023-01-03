@@ -1,0 +1,8 @@
+H:\LapTrinhMang\Bai_Lab\2012353_DoanCaoNhatHa_BT16-9\Client\bin\Debug\Client.exe.config
+H:\LapTrinhMang\Bai_Lab\2012353_DoanCaoNhatHa_BT16-9\Client\bin\Debug\Client.exe
+H:\LapTrinhMang\Bai_Lab\2012353_DoanCaoNhatHa_BT16-9\Client\bin\Debug\Client.pdb
+H:\LapTrinhMang\Bai_Lab\2012353_DoanCaoNhatHa_BT16-9\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+H:\LapTrinhMang\Bai_Lab\2012353_DoanCaoNhatHa_BT16-9\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+H:\LapTrinhMang\Bai_Lab\2012353_DoanCaoNhatHa_BT16-9\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+H:\LapTrinhMang\Bai_Lab\2012353_DoanCaoNhatHa_BT16-9\Client\obj\Debug\Client.exe
+H:\LapTrinhMang\Bai_Lab\2012353_DoanCaoNhatHa_BT16-9\Client\obj\Debug\Client.pdb

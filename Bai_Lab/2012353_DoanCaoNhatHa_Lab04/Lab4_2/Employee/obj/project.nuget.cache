@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vtywoDrXJC67eJa1zmes91ObvAY4YDLOfPA0aM22pZhgfcPzfatU5PB/XzCJmDH5KCy5UnHb4W/wEsJASuy4ww==",
+  "success": true,
+  "projectFilePath": "H:\\LapTrinhMang\\Bai_Lab\\2012353_DoanCaoNhatHa_Lab04\\Lab4_2\\Employee\\Employee.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hadoa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\hadoa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\hadoa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\hadoa\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

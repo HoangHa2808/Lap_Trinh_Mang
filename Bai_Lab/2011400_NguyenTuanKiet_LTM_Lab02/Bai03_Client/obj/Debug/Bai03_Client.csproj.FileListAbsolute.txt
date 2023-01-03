@@ -1,0 +1,7 @@
+D:\2011400_NguyenTuanKiet_LTM_Lab02\Bai03_Client\bin\Debug\Bai03_Client.exe.config
+D:\2011400_NguyenTuanKiet_LTM_Lab02\Bai03_Client\bin\Debug\Bai03_Client.exe
+D:\2011400_NguyenTuanKiet_LTM_Lab02\Bai03_Client\bin\Debug\Bai03_Client.pdb
+D:\2011400_NguyenTuanKiet_LTM_Lab02\Bai03_Client\obj\Debug\Bai03_Client.csprojAssemblyReference.cache
+D:\2011400_NguyenTuanKiet_LTM_Lab02\Bai03_Client\obj\Debug\Bai03_Client.csproj.CoreCompileInputs.cache
+D:\2011400_NguyenTuanKiet_LTM_Lab02\Bai03_Client\obj\Debug\Bai03_Client.exe
+D:\2011400_NguyenTuanKiet_LTM_Lab02\Bai03_Client\obj\Debug\Bai03_Client.pdb
