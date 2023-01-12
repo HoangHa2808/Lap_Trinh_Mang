@@ -1,0 +1,12 @@
+D:\Studies\LapTrinhMang\OnTap\GiaiDe1\ClientApp\bin\Debug\ClientApp.exe.config
+D:\Studies\LapTrinhMang\OnTap\GiaiDe1\ClientApp\bin\Debug\ClientApp.exe
+D:\Studies\LapTrinhMang\OnTap\GiaiDe1\ClientApp\bin\Debug\ClientApp.pdb
+D:\Studies\LapTrinhMang\OnTap\GiaiDe1\ClientApp\obj\Debug\ClientApp.csproj.AssemblyReference.cache
+D:\Studies\LapTrinhMang\OnTap\GiaiDe1\ClientApp\obj\Debug\ClientApp.csproj.SuggestedBindingRedirects.cache
+D:\Studies\LapTrinhMang\OnTap\GiaiDe1\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+D:\Studies\LapTrinhMang\OnTap\GiaiDe1\ClientApp\obj\Debug\ClientApp.exe
+D:\Studies\LapTrinhMang\OnTap\GiaiDe1\ClientApp\obj\Debug\ClientApp.pdb
+D:\Studies\LapTrinhMang\OnTap\GiaiDe1\ClientApp\bin\Debug\ServerApp.exe
+D:\Studies\LapTrinhMang\OnTap\GiaiDe1\ClientApp\bin\Debug\ServerApp.pdb
+D:\Studies\LapTrinhMang\OnTap\GiaiDe1\ClientApp\bin\Debug\ServerApp.exe.config
+D:\Studies\LapTrinhMang\OnTap\GiaiDe1\ClientApp\obj\Debug\ClientApp.csproj.CopyComplete
